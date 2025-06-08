@@ -1,7 +1,5 @@
 # Ignore dataset directories
-data/
-datasets/
-input/
+misinfo/
 
 # Ignore files with these extensions
 *.csv
