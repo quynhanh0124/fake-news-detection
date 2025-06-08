@@ -1,0 +1,24 @@
+# Ignore dataset directories
+data/
+datasets/
+input/
+
+# Ignore files with these extensions
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+*.zip
+*.tar.gz
+*.h5
+*.pt
+*.ckpt
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
