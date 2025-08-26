@@ -9,7 +9,7 @@ Using models to handle this problem:
 * Advanced Deep learning models: BERT, RoBERTa and XLNet
 
 ## Dataset
-Use datasets in link : https://drive.google.com/drive/folders/1mrX3vPKhEzxG96OCPpCeh9F8m_QKCM4z?usp=sharing
+Using datasets in link : https://drive.google.com/drive/folders/1mrX3vPKhEzxG96OCPpCeh9F8m_QKCM4z?usp=sharing
 
 * **True Articles**:
 
